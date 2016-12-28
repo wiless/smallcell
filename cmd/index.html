@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html ng-app id="ngapp" >
+	<head>
+		<title></title>
+		 <link rel="stylesheet" href="css/bootstrap.css">
+		 <link rel="stylesheet" href="c3.css">
+ 
+		<script src="js/jquery.min.js"></script>
+		 <script src="js/bootstrap.js"></script>
+		<script src="/js/angular.min.js"></script>
+<script src="d3.min.js" charset="utf-8"></script>
+<script src="c3.min.js"></script>
+
+      
+		<script type="text/javascript">
+				// wait until all the resources are loaded
+				var pvsNODE='';
+				window.addEventListener("load", init, false);
+
+				function init()
+				{
+					ListNodes();
+					loadCDF();
+				}
+				function toggleNode(ueobj){
+					if (ueobj=="") {
+						return
+					}
+					w=ueobj.style["strokeWidth"];
+				// console.log("STROKE WIDTH ",w);
+				if (w=="2px") {
+					w="1px";
+					ueobj.style["stroke"]="gray";
+										}			else {
+					w="2px";
+						ueobj.style["stroke"]="red";
+				}
+				ueobj.style["strokeWidth"]=w;
+			}
+			function zoomit(){
+				console.log("Showing");
+				$("#messagebox").alert();
+
+				// svgdoc=elem.contentDocument;
+			}
+			function ListNodes()
+			{
+				 
+				elem=document.getElementById("nodemap");
+				
+				svgdoc=elem.contentDocument;
+
+				svgdoc.onclick=function(arg) {
+					ueobj=arg.target;
+					tmp=ueobj.attributes["id"]
+				console.log(tmp);
+					if (tmp) {
+				// alert("Clicked UE "+UEID);
+				// console.log("Clicked UE "+UEID);
+
+				var UEID = ueobj.attributes["id"].value;
+				$("#selected").val(UEID);
+				$("#ueid").val(UEID);
+				if (pvsNODE!=undefined ){
+								toggleNode(pvsNODE);
+							}
+				toggleNode(ueobj);
+				pvsNODE=ueobj;
+				// ueobj.setAttribute("style","fill:green");
+				
+				console.log("META INFO ", ueobj.attributes["title"].value);
+							$("#metainfo").val(ueobj.attributes["title"].value);
+							}
+				// console.log("STROKE WIDTH ",w);
+				// if (handlers[id]) {
+				// event.stopPropagation();
+				// handlers[id]();
+				// }
+			}
+		}
+					//$('#nodemap').on('click', '.UE', Hello);
+					
+					function Hello(arg) {
+						console.log("Hello");
+					}
+		</script>
+	</head>
+	<body  >
+
+	<div class="container" ng-controller="ControlPanel"  ng-init="init()">
+  <div class="row">
+    <nav class="col-sm-3">
+    		<div id="infobox" class="panel-default" data-spy="affix" data-offset-top="0">
+	     <!--  <ul class="nav nav-pills nav-stacked" >
+        <li class="active"><a href="#section1">Section 1</a></li>
+        <li><a href="#section2">Section 2</a></li>
+        <li><a href="#section3">Section 3</a></li>
+      </ul> -->
+      	
+       <div class="form-group">
+    <label for="ueid">UE ID</label>
+    <input type="text" class="form-control" box-shadow disabled id="ueid" ng-model="Property">
+  </div>
+     <div class="form-group">
+    <label for="metainfo">Meta Information</label>
+    <textarea type="textarea" class="form-control" id="metainfo" ng-model="MetaInfo" rows=3> </textarea>
+  </div>
+  <input id="message" class="btn btn-default btn-success" id="selected" type="button" name="" placeholder="" onclick="zoomit()" value="More..">		
+      <!-- <input id="selected" type="textarea" name="" placeholder="" ng-model="Property">
+				{{ Property }}
+				<input id="metainfo" type="text" name="" placeholder="" ng-model="MetaInfo"> -->
+			</div>
+    </nav>
+    <div class="col-sm-9">   
+       <div class="well">
+	<!-- well begins -->
+		 
+			
+			
+			<div id="svgbox" style="background-image:url(area-sqm.jpg);border-color:red;overflow:scroll;width:100%;height:100%" ng-click="toogleFun()">
+				<!-- <img src="plot.svg">Your browser does not support iframes</img> -->
+				 <object id="nodemap" data="plot.svg" type="image/svg+xml" width=100% > 
+				<!-- <img src="yourfallback.jpg" /> -->
+				</object>
+				   
+			</div>
+			Chennai Region : Around Adyar (1000x1000 m)
+			<button type="button" class="btn btn-default " onclick="Download()"> <span class="glyphicon glyphicon-download-al" >  Download</span> </button>
+ 
+		
+		 
+		 
+<!-- Well EnDS -->		
+       	
+       </div>
+<!-- <div class="well"> -->
+	<!-- well begins -->
+		 
+				<div id="cdfplot">
+				 
+			</div>
+			<button type="button" class="btn btn-default " onclick="Download2()"> <span class="glyphicon glyphicon-download-al" >  Download</span> </button>
+ 
+		
+		 <!-- <button type="button" class="btn btn-default" onclick="loadCDF()">Show CDF</button> -->
+			
+		
+		 
+<!-- Well EnDS -->		
+       	
+       <!-- </div> -->
+
+    </div>
+  </div>
+</div>
+		
+<!-- 	<div id="messagebox" class="alert alert-success" >   <a  class="close" data-dismiss="alert" aria-label="close">&times;</a>
+  <strong>Success!</strong> Indicates a successful or positive action. 
+  </div>
+ -->
+ 		 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.css">
+
+		<script type="text/javascript">
+
+function loadCDF(){
+	       var chart = c3.generate({
+	       	bindto: '#cdfplot',
+    data: {
+    	x:'SNR',
+    	color:'blue',
+    	 type: 'line',
+        url: '/snrcdf.csv'
+    },
+     grid: {
+        x: {
+
+            show: true
+        },
+        y: {
+            show: true
+        }
+   
+    },
+     axis: {
+        x: {
+            label: 'SNR',
+            min:-10
+
+        },
+        y: {
+            label: 'CDF'
+        }
+
+    },
+      point: {
+        show: false
+    }
+});
+
+}
+		// var canvas = document.querySelector("canvas"),
+function Download() {
+		canvas=document.createElement("canvas");
+		canvas.height=1000;
+		canvas.width=1000;
+
+    context = canvas.getContext("2d");
+ 
+ canvas.style["background-color"]="red"
+        context.opacity = 1;
+        context.fill();
+var image = new Image;
+image.src = "plot.svg";
+image.style["background-color"]="red"
+image.onload = function() {
+  context.drawImage(image, 0, 0);
+
+  var a = document.createElement("a");
+  a.download = "plot.png";
+  a.href = canvas.toDataURL("image/png");
+  a.click();
+};
+}
+
+function Download2() {
+		canvas=document.createElement("canvas");
+		canvas.height=1000;
+		canvas.width=1000;
+
+    context = canvas.getContext("2d");
+ 
+ canvas.style["background-color"]="red"
+        context.opacity = 1;
+        context.fill();
+var image = new Image;
+image.src = "plot.svg";
+image.style["background-color"]="red"
+image.onload = function() {
+  context.drawImage(image, 0, 0);
+
+  var a = document.createElement("a");
+  a.download = "plot.png";
+  a.href = canvas.toDataURL("image/png");
+  a.click();
+};
+}
+			function ControlPanel($scope) {
+			$scope.text="WHAT ";	
+			$scope.toogleFun=function(){
+				console.log("Received click");
+			$scope.tipdata=!$scope.tipdata;
+			}	
+			// $scope.Property = "What is this ";
+			$scope.add = function() {
+				$scope.contacts.push($scope.newcontact);
+				$scope.newcontact = "";
+			}
+			
+		}
+		</script>
+	</body>
+</html>

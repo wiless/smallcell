@@ -1,0 +1,2402 @@
+[
+	{
+		"ID": 103,
+		"LinkMetric": {
+			"RxNodeID": 103,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-105.64142622910512,
+				-143.0637171689741,
+				-143.0637171689741
+			],
+			"RSSI": -101.67307682369932,
+			"BestRSRP": -105.64142622910512,
+			"BestRSRPNode": 2,
+			"BestSINR": -1.7424791359370033,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 32,
+		"LinkMetric": {
+			"RxNodeID": 32,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-94.88875927379755,
+				-145.81649027261992,
+				-145.81649027261992
+			],
+			"RSSI": -94.3749829746239,
+			"BestRSRP": -94.88875927379755,
+			"BestRSRPNode": 1,
+			"BestSINR": 9.010682079361743,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 52,
+		"LinkMetric": {
+			"RxNodeID": 52,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-96.05672609499175,
+				-144.42617527938512,
+				-146.14300249393256
+			],
+			"RSSI": -95.39593680143334,
+			"BestRSRP": -96.05672609499175,
+			"BestRSRPNode": 1,
+			"BestSINR": 7.842630103290219,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 53,
+		"LinkMetric": {
+			"RxNodeID": 53,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-69.90700357707777,
+				-123.9195889082915,
+				-125.72435104445165
+			],
+			"RSSI": -69.9052435687409,
+			"BestRSRP": -69.90700357707777,
+			"BestRSRPNode": 0,
+			"BestSINR": 33.92181582909461,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 58,
+		"LinkMetric": {
+			"RxNodeID": 58,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-89.40135918950423,
+				-142.5873646655127,
+				-142.5873646655127
+			],
+			"RSSI": -89.2498495653819,
+			"BestRSRP": -89.40135918950423,
+			"BestRSRPNode": 2,
+			"BestSINR": 14.497465861291062,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 60,
+		"LinkMetric": {
+			"RxNodeID": 60,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-85.96235725770553,
+				-141.62165226602858,
+				-141.62165226602858
+			],
+			"RSSI": -85.8930629652219,
+			"BestRSRP": -85.96235725770553,
+			"BestRSRPNode": 2,
+			"BestSINR": 17.936175250425165,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 80,
+		"LinkMetric": {
+			"RxNodeID": 80,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-84.49558418237723,
+				-130.93748332253406,
+				-138.11517952931948
+			],
+			"RSSI": -84.44593861199726,
+			"BestRSRP": -84.49558418237723,
+			"BestRSRPNode": 1,
+			"BestSINR": 19.394191634545294,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 54,
+		"LinkMetric": {
+			"RxNodeID": 54,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-69.82114641032796,
+				-123.48394116241687,
+				-123.48394116241687
+			],
+			"RSSI": -69.81941153731202,
+			"BestRSRP": -69.82114641032796,
+			"BestRSRPNode": 0,
+			"BestSINR": 33.984298726638215,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 85,
+		"LinkMetric": {
+			"RxNodeID": 85,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				0,
+				1
+			],
+			"TxNodesRSRP": [
+				-88.14901353527054,
+				-98.60501017948276,
+				-132.32074517437152
+			],
+			"RSSI": -87.66975654030762,
+			"BestRSRP": -88.14901353527054,
+			"BestRSRPNode": 2,
+			"BestSINR": 9.33032659233372,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 9,
+		"LinkMetric": {
+			"RxNodeID": 9,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-75.31817781015775,
+				-109.37828289475787,
+				-127.97732492810863
+			],
+			"RSSI": -75.31043589969248,
+			"BestRSRP": -75.31817781015775,
+			"BestRSRPNode": 1,
+			"BestSINR": 27.485490138507146,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 21,
+		"LinkMetric": {
+			"RxNodeID": 21,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-108.38083936165506,
+				-116.27771769561596,
+				-116.27771769561596
+			],
+			"RSSI": -102.22073828943734,
+			"BestRSRP": -108.38083936165506,
+			"BestRSRPNode": 0,
+			"BestSINR": -4.956235784430774,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 39,
+		"LinkMetric": {
+			"RxNodeID": 39,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-94.11144082837001,
+				-132.92947365044955,
+				-143.3123552751943
+			],
+			"RSSI": -93.67729783725125,
+			"BestRSRP": -94.11144082837001,
+			"BestRSRPNode": 0,
+			"BestSINR": 9.78263552898656,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 41,
+		"LinkMetric": {
+			"RxNodeID": 41,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				1,
+				2
+			],
+			"TxNodesRSRP": [
+				-96.89985930545367,
+				-135.82241599724733,
+				-145.21386195460997
+			],
+			"RSSI": -96.1092678589743,
+			"BestRSRP": -96.89985930545367,
+			"BestRSRPNode": 0,
+			"BestSINR": 6.997031281956367,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 49,
+		"LinkMetric": {
+			"RxNodeID": 49,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				0,
+				1
+			],
+			"TxNodesRSRP": [
+				-97.37711495198177,
+				-136.62812271507462,
+				-145.59755398767524
+			],
+			"RSSI": -96.50345618190605,
+			"BestRSRP": -97.37711495198177,
+			"BestRSRPNode": 2,
+			"BestSINR": 6.520274802612917,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 51,
+		"LinkMetric": {
+			"RxNodeID": 51,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				1,
+				2
+			],
+			"TxNodesRSRP": [
+				-90.43618102503387,
+				-92.7329440350027,
+				-131.06672339242218
+			],
+			"RSSI": -88.30256761766469,
+			"BestRSRP": -90.43618102503387,
+			"BestRSRPNode": 0,
+			"BestSINR": 1.9762913005638723,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 86,
+		"LinkMetric": {
+			"RxNodeID": 86,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-70.73187867340414,
+				-121.67380369978956,
+				-124.3320348623862
+			],
+			"RSSI": -70.72973130746338,
+			"BestRSRP": -70.73187867340414,
+			"BestRSRPNode": 1,
+			"BestSINR": 33.05770878071834,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 64,
+		"LinkMetric": {
+			"RxNodeID": 64,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-99.17736466920081,
+				-145.15303923772046,
+				-145.15303923772046
+			],
+			"RSSI": -97.91561787556994,
+			"BestRSRP": -99.17736466920081,
+			"BestRSRPNode": 2,
+			"BestSINR": 4.721984485397996,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 87,
+		"LinkMetric": {
+			"RxNodeID": 87,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-85.36463532102638,
+				-138.50683608158243,
+				-139.5727933075376
+			],
+			"RSSI": -85.30417240576881,
+			"BestRSRP": -85.36463532102638,
+			"BestRSRPNode": 1,
+			"BestSINR": 18.532685750361367,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 10,
+		"LinkMetric": {
+			"RxNodeID": 10,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				0,
+				1
+			],
+			"TxNodesRSRP": [
+				-99.49985021978023,
+				-146.4895519551543,
+				-148.33222362731766
+			],
+			"RSSI": -98.15457744577671,
+			"BestRSRP": -99.49985021978023,
+			"BestRSRPNode": 2,
+			"BestSINR": 4.399754043671123,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 12,
+		"LinkMetric": {
+			"RxNodeID": 12,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				0,
+				1
+			],
+			"TxNodesRSRP": [
+				-94.85821617901246,
+				-98.89138619945211,
+				-135.16029258275674
+			],
+			"RSSI": -93.04018448238843,
+			"BestRSRP": -94.85821617901246,
+			"BestRSRPNode": 2,
+			"BestSINR": 2.841148126877698,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 26,
+		"LinkMetric": {
+			"RxNodeID": 26,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-89.76068427840059,
+				-142.82632165907162,
+				-142.82632165907162
+			],
+			"RSSI": -89.5963525400771,
+			"BestRSRP": -89.76068427840059,
+			"BestRSRPNode": 2,
+			"BestSINR": 14.13820366590808,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 38,
+		"LinkMetric": {
+			"RxNodeID": 38,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-98.58270364581313,
+				-148.50178206051896,
+				-148.50178206051896
+			],
+			"RSSI": -97.46346734978282,
+			"BestRSRP": -98.58270364581313,
+			"BestRSRPNode": 1,
+			"BestSINR": 5.316995316374772,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 46,
+		"LinkMetric": {
+			"RxNodeID": 46,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-72.7855220607281,
+				-132.3863215344942,
+				-132.3863215344942
+			],
+			"RSSI": -72.78215386639424,
+			"BestRSRP": -72.7855220607281,
+			"BestRSRPNode": 0,
+			"BestSINR": 31.102187497699987,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 47,
+		"LinkMetric": {
+			"RxNodeID": 47,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-84.51337233203884,
+				-129.56809780148058,
+				-137.92147116645427
+			],
+			"RSSI": -84.46348705590245,
+			"BestRSRP": -84.51337233203884,
+			"BestRSRPNode": 0,
+			"BestSINR": 19.373152793971727,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 20,
+		"LinkMetric": {
+			"RxNodeID": 20,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-97.74744867640638,
+				-131.8031501130403,
+				-144.87395455505106
+			],
+			"RSSI": -96.80297879057235,
+			"BestRSRP": -97.74744867640638,
+			"BestRSRPNode": 1,
+			"BestSINR": 6.145172223886107,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 34,
+		"LinkMetric": {
+			"RxNodeID": 34,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				0,
+				1
+			],
+			"TxNodesRSRP": [
+				-104.83940164119126,
+				-128.26832315690987,
+				-147.37546801298575
+			],
+			"RSSI": -101.32515415054725,
+			"BestRSRP": -104.83940164119126,
+			"BestRSRPNode": 2,
+			"BestSINR": -0.9554507531461383,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 37,
+		"LinkMetric": {
+			"RxNodeID": 37,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-113.18348768175157,
+				-147.29863367302752,
+				-147.29863367302752
+			],
+			"RSSI": -103.41547024504409,
+			"BestRSRP": -113.18348768175157,
+			"BestRSRPNode": 2,
+			"BestSINR": -9.283884810276845,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 4,
+		"LinkMetric": {
+			"RxNodeID": 4,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-87.40451864045858,
+				-142.44967964079484,
+				-142.44967964079484
+			],
+			"RSSI": -87.30823897389305,
+			"BestRSRP": -87.40451864045858,
+			"BestRSRPNode": 1,
+			"BestSINR": 16.494268569277196,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 5,
+		"LinkMetric": {
+			"RxNodeID": 5,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-103.40376467999938,
+				-145.2279916132677,
+				-145.2279916132677
+			],
+			"RSSI": -100.6341969925972,
+			"BestRSRP": -103.40376467999938,
+			"BestRSRPNode": 2,
+			"BestSINR": 0.4955956099710903,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 11,
+		"LinkMetric": {
+			"RxNodeID": 11,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-92.76240810272941,
+				-146.13112350762387,
+				-146.13112350762387
+			],
+			"RSSI": -92.44039256686463,
+			"BestRSRP": -92.76240810272941,
+			"BestRSRPNode": 2,
+			"BestSINR": 11.137072289095215,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 14,
+		"LinkMetric": {
+			"RxNodeID": 14,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-91.05065703239828,
+				-144.53209244710973,
+				-144.53209244710973
+			],
+			"RSSI": -90.83092558895035,
+			"BestRSRP": -91.05065703239828,
+			"BestRSRPNode": 2,
+			"BestSINR": 12.848592092821278,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 17,
+		"LinkMetric": {
+			"RxNodeID": 17,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-94.34307374508037,
+				-142.15514954306076,
+				-142.15514954306076
+			],
+			"RSSI": -93.88681736270638,
+			"BestRSRP": -94.34307374508037,
+			"BestRSRPNode": 1,
+			"BestSINR": 9.555628375167856,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 19,
+		"LinkMetric": {
+			"RxNodeID": 19,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-72.541493419645,
+				-131.80584936345286,
+				-131.80584936345286
+			],
+			"RSSI": -72.53830791029011,
+			"BestRSRP": -72.541493419645,
+			"BestRSRPNode": 0,
+			"BestSINR": 31.344461412850933,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 62,
+		"LinkMetric": {
+			"RxNodeID": 62,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-88.67226532946896,
+				-142.05798226027406,
+				-142.05798226027406
+			],
+			"RSSI": -88.54382374291283,
+			"BestRSRP": -88.67226532946896,
+			"BestRSRPNode": 1,
+			"BestSINR": 15.226407429750694,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 78,
+		"LinkMetric": {
+			"RxNodeID": 78,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-86.45743749857174,
+				-141.38098193597,
+				-141.38098193597
+			],
+			"RSSI": -86.37984888980515,
+			"BestRSRP": -86.45743749857174,
+			"BestRSRPNode": 1,
+			"BestSINR": 17.441011405862568,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 81,
+		"LinkMetric": {
+			"RxNodeID": 81,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-86.62731765821296,
+				-132.61237587046764,
+				-132.61237587046764
+			],
+			"RSSI": -86.54647612866611,
+			"BestRSRP": -86.62731765821296,
+			"BestRSRPNode": 2,
+			"BestSINR": 17.26101442848008,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 101,
+		"LinkMetric": {
+			"RxNodeID": 101,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-98.2549868355896,
+				-141.12789261633816,
+				-146.81956291804195
+			],
+			"RSSI": -97.20790223279914,
+			"BestRSRP": -98.2549868355896,
+			"BestRSRPNode": 1,
+			"BestSINR": 5.643969324768975,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 102,
+		"LinkMetric": {
+			"RxNodeID": 102,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-93.77753031881096,
+				-146.29562204031865,
+				-146.29562204031865
+			],
+			"RSSI": -93.37455112519747,
+			"BestRSRP": -93.77753031881096,
+			"BestRSRPNode": 0,
+			"BestSINR": 10.121969385123052,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 94,
+		"LinkMetric": {
+			"RxNodeID": 94,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-104.52088951502013,
+				-127.15742864566097,
+				-146.95735780175073
+			],
+			"RSSI": -101.17796892415501,
+			"BestRSRP": -104.52088951502013,
+			"BestRSRPNode": 0,
+			"BestSINR": -0.6415685911835141,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 98,
+		"LinkMetric": {
+			"RxNodeID": 98,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-88.2059972934324,
+				-140.84757863847548,
+				-140.84757863847548
+			],
+			"RSSI": -88.09044751490377,
+			"BestRSRP": -88.2059972934324,
+			"BestRSRPNode": 2,
+			"BestSINR": 15.69224895225318,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 16,
+		"LinkMetric": {
+			"RxNodeID": 16,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-94.27851857628772,
+				-141.762388642282,
+				-144.80528646401314
+			],
+			"RSSI": -93.8286802833745,
+			"BestRSRP": -94.27851857628772,
+			"BestRSRPNode": 1,
+			"BestSINR": 9.620418505912141,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 29,
+		"LinkMetric": {
+			"RxNodeID": 29,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				1,
+				2
+			],
+			"TxNodesRSRP": [
+				-79.5370590649427,
+				-118.78633596664055,
+				-133.4248703099762
+			],
+			"RSSI": -79.52065269666767,
+			"BestRSRP": -79.5370590649427,
+			"BestRSRPNode": 0,
+			"BestSINR": 24.21951278677237,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 40,
+		"LinkMetric": {
+			"RxNodeID": 40,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-88.03790177597483,
+				-142.57099155270572,
+				-142.57099155270572
+			],
+			"RSSI": -87.92669778756193,
+			"BestRSRP": -88.03790177597483,
+			"BestRSRPNode": 0,
+			"BestSINR": 15.860918837447073,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 48,
+		"LinkMetric": {
+			"RxNodeID": 48,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-94.05833744681163,
+				-138.94950068496746,
+				-144.27446353243027
+			],
+			"RSSI": -93.62961032947732,
+			"BestRSRP": -94.05833744681163,
+			"BestRSRPNode": 0,
+			"BestSINR": 9.83990669597668,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 56,
+		"LinkMetric": {
+			"RxNodeID": 56,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-82.84338712733597,
+				-137.9328452253675,
+				-137.9328452253675
+			],
+			"RSSI": -82.80944275748716,
+			"BestRSRP": -82.84338712733597,
+			"BestRSRPNode": 1,
+			"BestSINR": 21.053182366154033,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 72,
+		"LinkMetric": {
+			"RxNodeID": 72,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-74.39354197167056,
+				-129.81067720642895,
+				-129.81067720642895
+			],
+			"RSSI": -74.38865414790737,
+			"BestRSRP": -74.39354197167056,
+			"BestRSRPNode": 2,
+			"BestSINR": 29.484243587247008,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 92,
+		"LinkMetric": {
+			"RxNodeID": 92,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-107.51225442002138,
+				-145.9297768633756,
+				-145.9297768633756
+			],
+			"RSSI": -102.33023673193074,
+			"BestRSRP": -107.51225442002138,
+			"BestRSRPNode": 1,
+			"BestSINR": -3.6127986837682613,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 95,
+		"LinkMetric": {
+			"RxNodeID": 95,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-75.59327908798227,
+				-131.6494075779583,
+				-131.6494075779583
+			],
+			"RSSI": -75.58684856047365,
+			"BestRSRP": -75.59327908798227,
+			"BestRSRPNode": 2,
+			"BestSINR": 28.292161448497268,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 24,
+		"LinkMetric": {
+			"RxNodeID": 24,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-98.79976240166096,
+				-108.49118955247233,
+				-139.60869403863904
+			],
+			"RSSI": -97.28772140970594,
+			"BestRSRP": -98.79976240166096,
+			"BestRSRPNode": 1,
+			"BestSINR": 3.8042743855391166,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 33,
+		"LinkMetric": {
+			"RxNodeID": 33,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-91.04743590443448,
+				-143.4546848961893,
+				-143.4546848961893
+			],
+			"RSSI": -90.82785290144324,
+			"BestRSRP": -91.04743590443448,
+			"BestRSRPNode": 2,
+			"BestSINR": 12.851601823889226,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 35,
+		"LinkMetric": {
+			"RxNodeID": 35,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-92.13696200179965,
+				-145.73327303537647,
+				-145.73327303537647
+			],
+			"RSSI": -91.8567719965796,
+			"BestRSRP": -92.13696200179965,
+			"BestRSRPNode": 2,
+			"BestSINR": 11.762468544354391,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 63,
+		"LinkMetric": {
+			"RxNodeID": 63,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-86.52514473605012,
+				-136.6159524944631,
+				-136.6159524944631
+			],
+			"RSSI": -86.446292374839,
+			"BestRSRP": -86.52514473605012,
+			"BestRSRPNode": 1,
+			"BestSINR": 17.370210252527954,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 73,
+		"LinkMetric": {
+			"RxNodeID": 73,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-98.61315034758461,
+				-147.5374421369199,
+				-147.5374421369199
+			],
+			"RSSI": -97.48696120498576,
+			"BestRSRP": -98.61315034758461,
+			"BestRSRPNode": 1,
+			"BestSINR": 5.286473770614421,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 75,
+		"LinkMetric": {
+			"RxNodeID": 75,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-98.00792389859294,
+				-125.30110396396651,
+				-143.62304681943905
+			],
+			"RSSI": -97.00628201983322,
+			"BestRSRP": -98.00792389859294,
+			"BestRSRPNode": 0,
+			"BestSINR": 5.860276060246051,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 59,
+		"LinkMetric": {
+			"RxNodeID": 59,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-108.1820610429819,
+				-115.93840941829997,
+				-145.31281871585645
+			],
+			"RSSI": -102.32940696222231,
+			"BestRSRP": -108.1820610429819,
+			"BestRSRPNode": 0,
+			"BestSINR": -4.545809839158366,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 88,
+		"LinkMetric": {
+			"RxNodeID": 88,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-68.27561919641889,
+				-127.8187403300764,
+				-127.8187403300764
+			],
+			"RSSI": -68.27442026237362,
+			"BestRSRP": -68.27561919641889,
+			"BestRSRPNode": 1,
+			"BestSINR": 35.589290705048796,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 100,
+		"LinkMetric": {
+			"RxNodeID": 100,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-111.43628004385977,
+				-117.183515558994,
+				-146.91300397464946
+			],
+			"RSSI": -103.02449291644079,
+			"BestRSRP": -111.43628004385977,
+			"BestRSRPNode": 0,
+			"BestSINR": -7.735752492765769,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 68,
+		"LinkMetric": {
+			"RxNodeID": 68,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-73.8308687600468,
+				-133.2907533330847,
+				-133.2907533330847
+			],
+			"RSSI": -73.82658667472543,
+			"BestRSRP": -73.8308687600468,
+			"BestRSRPNode": 1,
+			"BestSINR": 30.059148729983775,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 71,
+		"LinkMetric": {
+			"RxNodeID": 71,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-102.0553625821469,
+				-129.45687178366126,
+				-146.3974404233873
+			],
+			"RSSI": -99.86530114381068,
+			"BestRSRP": -102.0553625821469,
+			"BestRSRPNode": 1,
+			"BestSINR": 1.8323296684749266,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 8,
+		"LinkMetric": {
+			"RxNodeID": 8,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-103.13371237795214,
+				-144.130299127555,
+				-144.130299127555
+			],
+			"RSSI": -100.48930162372841,
+			"BestRSRP": -103.13371237795214,
+			"BestRSRPNode": 2,
+			"BestSINR": 0.765463971084003,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 27,
+		"LinkMetric": {
+			"RxNodeID": 27,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-95.77953720639815,
+				-147.57604935601142,
+				-147.57604935601142
+			],
+			"RSSI": -95.15685127326196,
+			"BestRSRP": -95.77953720639815,
+			"BestRSRPNode": 2,
+			"BestSINR": 8.120090238304101,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 30,
+		"LinkMetric": {
+			"RxNodeID": 30,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-89.7855461343924,
+				-143.35746040032825,
+				-143.35746040032825
+			],
+			"RSSI": -89.62029345997374,
+			"BestRSRP": -89.7855461343924,
+			"BestRSRPNode": 2,
+			"BestSINR": 14.11346981130788,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 31,
+		"LinkMetric": {
+			"RxNodeID": 31,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-94.3254479150981,
+				-146.96953137476464,
+				-146.96953137476464
+			],
+			"RSSI": -93.87103247836166,
+			"BestRSRP": -94.3254479150981,
+			"BestRSRPNode": 0,
+			"BestSINR": 9.574123694482353,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 50,
+		"LinkMetric": {
+			"RxNodeID": 50,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				1,
+				2
+			],
+			"TxNodesRSRP": [
+				-82.78659276000982,
+				-95.63883343341756,
+				-127.82276946648699
+			],
+			"RSSI": -82.53507838506792,
+			"BestRSRP": -82.78659276000982,
+			"BestRSRPNode": 0,
+			"BestSINR": 12.245850908653779,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 66,
+		"LinkMetric": {
+			"RxNodeID": 66,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-79.70076686247413,
+				-137.09974417475593,
+				-137.09974417475593
+			],
+			"RSSI": -79.68426810051318,
+			"BestRSRP": -79.70076686247413,
+			"BestRSRPNode": 1,
+			"BestSINR": 24.195077553255686,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 83,
+		"LinkMetric": {
+			"RxNodeID": 83,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				1,
+				2
+			],
+			"TxNodesRSRP": [
+				-110.62332894461152,
+				-120.3105165969808,
+				-147.5868261173677
+			],
+			"RSSI": -102.98140765152132,
+			"BestRSRP": -110.62332894461152,
+			"BestRSRPNode": 0,
+			"BestSINR": -6.821643989812571,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 84,
+		"LinkMetric": {
+			"RxNodeID": 84,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-67.87903081505696,
+				-125.88421263951705,
+				-125.88421263951705
+			],
+			"RSSI": -67.87793156050371,
+			"BestRSRP": -67.87903081505696,
+			"BestRSRPNode": 1,
+			"BestSINR": 35.96631074215145,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 99,
+		"LinkMetric": {
+			"RxNodeID": 99,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				1,
+				2
+			],
+			"TxNodesRSRP": [
+				-102.95377025191479,
+				-129.55887679401576,
+				-146.83286514709758
+			],
+			"RSSI": -100.38551051514557,
+			"BestRSRP": -102.95377025191479,
+			"BestRSRPNode": 0,
+			"BestSINR": 0.9342249043145898,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 23,
+		"LinkMetric": {
+			"RxNodeID": 23,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-82.8691401566803,
+				-138.82617714642498,
+				-138.82617714642498
+			],
+			"RSSI": -82.83499968819898,
+			"BestRSRP": -82.8691401566803,
+			"BestRSRPNode": 0,
+			"BestSINR": 21.028066933330507,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 43,
+		"LinkMetric": {
+			"RxNodeID": 43,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-71.16742047242445,
+				-118.54689118678766,
+				-125.46477596892751
+			],
+			"RSSI": -71.16501072395485,
+			"BestRSRP": -71.16742047242445,
+			"BestRSRPNode": 0,
+			"BestSINR": 32.556921051792614,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 55,
+		"LinkMetric": {
+			"RxNodeID": 55,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-76.97091824164404,
+				-135.31339677251344,
+				-135.31339677251344
+			],
+			"RSSI": -76.96210648854847,
+			"BestRSRP": -76.97091824164404,
+			"BestRSRPNode": 2,
+			"BestSINR": 26.92281329388335,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 61,
+		"LinkMetric": {
+			"RxNodeID": 61,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-92.22958237703769,
+				-145.50312978664098,
+				-145.50312978664098
+			],
+			"RSSI": -91.94354535448257,
+			"BestRSRP": -92.22958237703769,
+			"BestRSRPNode": 0,
+			"BestSINR": 11.669817180626424,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 67,
+		"LinkMetric": {
+			"RxNodeID": 67,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-79.60374325984475,
+				-136.44028805416272,
+				-136.44028805416272
+			],
+			"RSSI": -79.58760579986253,
+			"BestRSRP": -79.60374325984475,
+			"BestRSRPNode": 2,
+			"BestSINR": 24.29142010144804,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 74,
+		"LinkMetric": {
+			"RxNodeID": 74,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-92.05769239355013,
+				-143.09241449812453,
+				-143.09241449812453
+			],
+			"RSSI": -91.7823836558921,
+			"BestRSRP": -92.05769239355013,
+			"BestRSRPNode": 1,
+			"BestSINR": 11.84126163324919,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 6,
+		"LinkMetric": {
+			"RxNodeID": 6,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-90.32655676343346,
+				-140.03739156787265,
+				-140.03739156787265
+			],
+			"RSSI": -90.13979844987088,
+			"BestRSRP": -90.32655676343346,
+			"BestRSRPNode": 2,
+			"BestSINR": 13.571329896052248,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 45,
+		"LinkMetric": {
+			"RxNodeID": 45,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-96.77183407559346,
+				-140.03392117533815,
+				-140.03392117533815
+			],
+			"RSSI": -96.00245154480223,
+			"BestRSRP": -96.77183407559346,
+			"BestRSRPNode": 2,
+			"BestSINR": 7.126050894884827,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 79,
+		"LinkMetric": {
+			"RxNodeID": 79,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-90.93883272207646,
+				-129.04660321558404,
+				-141.06947101678782
+			],
+			"RSSI": -90.72390825126249,
+			"BestRSRP": -90.93883272207646,
+			"BestRSRPNode": 0,
+			"BestSINR": 12.94707904976039,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 89,
+		"LinkMetric": {
+			"RxNodeID": 89,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-90.80157743234139,
+				-144.69529529806996,
+				-144.69529529806996
+			],
+			"RSSI": -90.59380667662873,
+			"BestRSRP": -90.80157743234139,
+			"BestRSRPNode": 1,
+			"BestSINR": 13.09769938397767,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 97,
+		"LinkMetric": {
+			"RxNodeID": 97,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-103.60911602117963,
+				-104.73510183732583,
+				-140.14765920479306
+			],
+			"RSSI": -99.28414757405835,
+			"BestRSRP": -103.60911602117963,
+			"BestRSRPNode": 0,
+			"BestSINR": -2.3224714157770023,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 96,
+		"LinkMetric": {
+			"RxNodeID": 96,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-89.37503295997371,
+				-136.69216181428465,
+				-136.69216181428465
+			],
+			"RSSI": -89.22430772305633,
+			"BestRSRP": -89.37503295997371,
+			"BestRSRPNode": 1,
+			"BestSINR": 14.520402785101794,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 15,
+		"LinkMetric": {
+			"RxNodeID": 15,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-103.19780370969922,
+				-145.130043308227,
+				-145.130043308227
+			],
+			"RSSI": -100.52412458564694,
+			"BestRSRP": -103.19780370969922,
+			"BestRSRPNode": 2,
+			"BestSINR": 0.7015419897879411,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 18,
+		"LinkMetric": {
+			"RxNodeID": 18,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-88.14821844176811,
+				-141.96904814249336,
+				-141.96904814249336
+			],
+			"RSSI": -88.03418623233011,
+			"BestRSRP": -88.14821844176811,
+			"BestRSRPNode": 2,
+			"BestSINR": 15.750426862519788,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 22,
+		"LinkMetric": {
+			"RxNodeID": 22,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-108.08567369504901,
+				-123.78022081873405,
+				-147.58683420614648
+			],
+			"RSSI": -102.46433138793931,
+			"BestRSRP": -108.08567369504901,
+			"BestRSRPNode": 1,
+			"BestSINR": -4.2302736333895865,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 25,
+		"LinkMetric": {
+			"RxNodeID": 25,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				1,
+				2
+			],
+			"TxNodesRSRP": [
+				-87.70471429385037,
+				-139.22624776128072,
+				-140.93532532668502
+			],
+			"RSSI": -87.60160369564889,
+			"BestRSRP": -87.70471429385037,
+			"BestRSRPNode": 0,
+			"BestSINR": 16.1931527473658,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 42,
+		"LinkMetric": {
+			"RxNodeID": 42,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-89.93071575344533,
+				-144.1917983866378,
+				-144.1917983866378
+			],
+			"RSSI": -89.75996154734203,
+			"BestRSRP": -89.93071575344533,
+			"BestRSRPNode": 1,
+			"BestSINR": 13.968472175811712,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 91,
+		"LinkMetric": {
+			"RxNodeID": 91,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-87.91638033061986,
+				-133.60285246656503,
+				-140.28876491071563
+			],
+			"RSSI": -87.80809706050304,
+			"BestRSRP": -87.91638033061986,
+			"BestRSRPNode": 1,
+			"BestSINR": 15.977975356719554,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 13,
+		"LinkMetric": {
+			"RxNodeID": 13,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-91.87544317731393,
+				-132.8216381911078,
+				-142.18159375593038
+			],
+			"RSSI": -91.61080630072192,
+			"BestRSRP": -91.87544317731393,
+			"BestRSRPNode": 1,
+			"BestSINR": 12.018349173770204,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 28,
+		"LinkMetric": {
+			"RxNodeID": 28,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-90.3960351018198,
+				-143.87558093204092,
+				-143.87558093204092
+			],
+			"RSSI": -90.20638283392114,
+			"BestRSRP": -90.3960351018198,
+			"BestRSRPNode": 0,
+			"BestSINR": 13.503091499476326,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 76,
+		"LinkMetric": {
+			"RxNodeID": 76,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				2,
+				0
+			],
+			"TxNodesRSRP": [
+				-98.11862216560091,
+				-147.60175776476217,
+				-147.60175776476217
+			],
+			"RSSI": -97.10053444144003,
+			"BestRSRP": -98.11862216560091,
+			"BestRSRPNode": 1,
+			"BestSINR": 5.781007477863881,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 57,
+		"LinkMetric": {
+			"RxNodeID": 57,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-107.07407930809693,
+				-110.13649207371446,
+				-143.08542399717166
+			],
+			"RSSI": -101.54599830266199,
+			"BestRSRP": -107.07407930809693,
+			"BestRSRPNode": 1,
+			"BestSINR": -4.101274253281147,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 82,
+		"LinkMetric": {
+			"RxNodeID": 82,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				1,
+				2
+			],
+			"TxNodesRSRP": [
+				-93.85807210334858,
+				-115.28894670818534,
+				-139.4830536011841
+			],
+			"RSSI": -93.4195014012834,
+			"BestRSRP": -93.85807210334858,
+			"BestRSRPNode": 0,
+			"BestSINR": 9.736316387414263,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 93,
+		"LinkMetric": {
+			"RxNodeID": 93,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-90.4728902639056,
+				-136.16515542553645,
+				-141.99072610013738
+			],
+			"RSSI": -90.27982271775468,
+			"BestRSRP": -90.4728902639056,
+			"BestRSRPNode": 0,
+			"BestSINR": 13.423858956591346,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 44,
+		"LinkMetric": {
+			"RxNodeID": 44,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				0,
+				1
+			],
+			"TxNodesRSRP": [
+				-104.45218937628539,
+				-120.51366193506315,
+				-145.18904103101443
+			],
+			"RSSI": -101.10678062696344,
+			"BestRSRP": -104.45218937628539,
+			"BestRSRPNode": 2,
+			"BestSINR": -0.6462020569068585,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 90,
+		"LinkMetric": {
+			"RxNodeID": 90,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-103.70843112453777,
+				-115.44805588512172,
+				-143.4747058589587
+			],
+			"RSSI": -100.64643734590888,
+			"BestRSRP": -103.70843112453777,
+			"BestRSRPNode": 1,
+			"BestSINR": -0.10277956621276019,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 7,
+		"LinkMetric": {
+			"RxNodeID": 7,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				0,
+				1
+			],
+			"TxNodesRSRP": [
+				-102.41260675883854,
+				-133.73011983664387,
+				-147.51283200957965
+			],
+			"RSSI": -100.08068280102819,
+			"BestRSRP": -102.41260675883854,
+			"BestRSRPNode": 2,
+			"BestSINR": 1.4826905797830108,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 36,
+		"LinkMetric": {
+			"RxNodeID": 36,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				0,
+				1
+			],
+			"TxNodesRSRP": [
+				-91.24743418178217,
+				-104.34845444732166,
+				-135.4770112314887
+			],
+			"RSSI": -90.82050947288423,
+			"BestRSRP": -91.24743418178217,
+			"BestRSRPNode": 2,
+			"BestSINR": 9.859119323039437,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 65,
+		"LinkMetric": {
+			"RxNodeID": 65,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				0,
+				2,
+				1
+			],
+			"TxNodesRSRP": [
+				-90.08649886135291,
+				-141.9774038300505,
+				-142.56746177834358
+			],
+			"RSSI": -89.90961563915275,
+			"BestRSRP": -90.08649886135291,
+			"BestRSRPNode": 0,
+			"BestSINR": 13.812234918984075,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 69,
+		"LinkMetric": {
+			"RxNodeID": 69,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				1,
+				0,
+				2
+			],
+			"TxNodesRSRP": [
+				-86.41354092462319,
+				-131.25005184455932,
+				-139.16161800209562
+			],
+			"RSSI": -86.33659016210815,
+			"BestRSRP": -86.41354092462319,
+			"BestRSRPNode": 1,
+			"BestSINR": 17.477181644486876,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 70,
+		"LinkMetric": {
+			"RxNodeID": 70,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				0,
+				1
+			],
+			"TxNodesRSRP": [
+				-92.43934826495436,
+				-96.69002322518685,
+				-133.46732684673725
+			],
+			"RSSI": -90.83377215074785,
+			"BestRSRP": -92.43934826495436,
+			"BestRSRPNode": 2,
+			"BestSINR": 3.494041779116884,
+			"RoIDbm": -1000
+		}
+	},
+	{
+		"ID": 77,
+		"LinkMetric": {
+			"RxNodeID": 77,
+			"FreqInGHz": 1.8,
+			"BandwidthMHz": 10,
+			"N0": -103.9,
+			"TxNodeIDs": [
+				2,
+				1,
+				0
+			],
+			"TxNodesRSRP": [
+				-70.70321748358096,
+				-130.63742829009465,
+				-130.63742829009465
+			],
+			"RSSI": -70.70112896274155,
+			"BestRSRP": -70.70321748358096,
+			"BestRSRPNode": 2,
+			"BestSINR": 33.1784106803177,
+			"RoIDbm": -1000
+		}
+	}
+]

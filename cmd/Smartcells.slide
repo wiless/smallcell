@@ -1,0 +1,24 @@
+Smart Cells for Next Generation
+Sept 2015
+Tags: LTE,smallcells, Wireless, Research
+
+
+Dr. Sendil Kumar
+@iamssk
+
+* Single Demo
+.play main.go /START OMIT/,/END OMIT/
+- Large Cell Radius
+- With Different Transmit Power
+
+* Multicell Demo
+.play main.go /START OMIT/,/END OMIT/
+- Different Cell Radius
+- With Different Transmit Power
+
+
+* HETNET Demo
+.play -numbers main.go /START OMIT/,/END OMIT/
+- Adding Small Cells
+- SINR around PICO
+
