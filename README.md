@@ -10,6 +10,7 @@ Golang based smallcell wireless simulation and simple web interface for personal
 * smallcell.slide : A golang presentation slide
 
 
+![solarized dualmode](screenshot.jpg)
 
 
 
